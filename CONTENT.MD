@@ -1,12 +1,3 @@
-    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
-  
-  Features
-  Team
-  Sign In
 
   All your files in one secure location, accessible anywhere.
 
