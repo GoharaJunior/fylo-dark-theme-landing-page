@@ -3,16 +3,19 @@
 </h1>
 
 <h1 align="center">
+    Welcome!👋</br>
+    Bem-vindo(a)!👋
+</h1>
+
+<h1 align="center">
     Frontend Mentor - Fylo landing page with</br>dark theme and features grid
 </h1>
 
 
 ![Design preview for the Fylo landing page with dark theme and features grid challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
-
 Thanks for checking out this front-end coding challenge.</br>
 (Obrigado por verificar este desafio de codificação front-end.)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.</br>
-Os desafios do [Frontend Mentor](https://www.frontendmentor.io) permitem aprimorar suas habilidades em um fluxo de trabalho da vida real.
+(Os desafios do [Frontend Mentor](https://www.frontendmentor.io) permitem aprimorar suas habilidades em um fluxo de trabalho da vida real.)
