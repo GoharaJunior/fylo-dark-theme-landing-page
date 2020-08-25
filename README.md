@@ -7,7 +7,7 @@
 </h2>
 
 <h2 align="center">
-    Frontend Mentor - Fylo landing page with</br>dark theme
+    Frontend Mentor - Fylo landing page with dark theme
 </h2>
 
 
